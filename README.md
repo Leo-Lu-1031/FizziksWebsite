@@ -1,20 +1,18 @@
 # FizziksWebsite
 Ultimate Illusion's Fizziks Website
 
-Here's The Rules From Shimo Document:
+I've pulled the rules and priorities from Shimo to the Wiki.
 
-Meet on every Monday (all)
-粗糙一点的roadmap by 7.11 (shimo) (all)
-Figure out Github by 7.11 (programming) (sorta done?)
-Meet with xzc on 7.5 14:30, meeting code 371-299-863
-Think of a website name by 7.31
-Invite more people
-Service Priority
+Currently everyone can upload to the repository. It's public.
 
-Service Priority
-Physics roadmap
-Practice problems
-Community
-Resource archive
-User rating
-Contests
+Basic rules of github are like this:
+You can make contributions by uploading files and/or changing existing code.
+(Since this is a website, it's mostly gonna be .config, .html, .css, .js or .php files.)
+Each time you want to change the code, ADD A BRANCH in which to work on your code. You do that at the top left corner.
+When you have RAN AND TESTED the code that it works, then request to merge it with the main branch. I'm not exactly sure how it works, but I think only I can merge branches.
+Everytime you make a change, it's called a COMMIT. Even if you work in your own branch, it is important to commit often and add as detailed descriptions as possible. If you don't, it'll come back to eat at you later.
+
+Good luck coding, nerds.
+
+Best of Wishes,
+Leo Lu
